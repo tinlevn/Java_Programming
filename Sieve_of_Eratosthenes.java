@@ -1,4 +1,7 @@
-//Sieve of Eratosthenes homework
+/*Sieve of Eratosthenes homework
+And a simple twist to find primes
+within a range without having to 
+implement segmented sieve*/
 import java.util.Scanner;
 import java.util.Arrays;
 public class Sieve_of_Eratosthenes {
