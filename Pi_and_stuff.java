@@ -1,13 +1,9 @@
-/*Tin Le 
-CS533-Homework 2
-*/
-package gradleproject1;
 import java.util.Scanner;
 /**
  *
  * @author TinGiangVN
  */
-public class Main {
+public class Pi_and_stuff {
     static final double PI=3.14159;
     /**
      * @param args the command line arguments
